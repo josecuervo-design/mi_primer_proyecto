@@ -1,2 +1,2 @@
 # mi_primer_proyecto
-<este es un proyecto nuevo
+>este es un proyecto nuevo
