@@ -12,7 +12,7 @@ public class App {
      lista[4]=num;
      for(int i=0;i<lista.length;i++){
         System.out.println("la posicion es:"+i+"y el valor es:"+lista[i]);
-
+        System.out.println("hola");
         
      }
 
